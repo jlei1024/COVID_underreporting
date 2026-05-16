@@ -2,7 +2,7 @@
 Data derived from public sources for paper titled “On partially identifiable Bayesian hierarchical spatiotemporal disease mapping models accounting for disease under-reporting”
 ## Data Sources & Licensing
 
-This combined/derived dataset is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0)(LICENSE). 
+This combined/derived dataset is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). 
 
 If you use this dataset in your research, please cite our accompanying paper:
 > [coming soon]
